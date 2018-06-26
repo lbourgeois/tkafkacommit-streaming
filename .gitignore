@@ -1,0 +1,6 @@
+.idea
+out
+
+*.jar
+
+sparkstreaming_local_basics_j06_230_sparkjob1_0_1.jar.old
